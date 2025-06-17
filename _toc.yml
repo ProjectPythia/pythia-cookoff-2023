@@ -1,8 +1,0 @@
-format: jb-book
-root: README
-parts:
-  - caption: Essential info
-    chapters:
-      - file: schedule
-      - file: travel
-      - file: faq
