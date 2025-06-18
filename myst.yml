@@ -4,7 +4,8 @@ extends:
 project:
   title: Pythia Cook-off 2023
   authors:
-    - name: the <a href="https://projectpythia.org/">Project Pythia</a> Community
+    - name: Project Pythia Community
+      url: https://projectpythia.org/
   github: https://github.com/projectpythia/pythia-cookoff-2023
   copyright: '2023'
   toc:
